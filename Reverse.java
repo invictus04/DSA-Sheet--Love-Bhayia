@@ -10,7 +10,7 @@ import java.util.* ;
 import java.io.*; 
 import java.util.ArrayList;
 
-public class Solution 
+public class Reverse 
 {
     public static void reverseArray(ArrayList<Integer> arr, int m)
     {
